@@ -136,3 +136,11 @@ C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.D
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.csprojResolveAssemblyReference.cache
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.xml
