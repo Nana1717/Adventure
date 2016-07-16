@@ -14,7 +14,7 @@ namespace Ejemplo.Tests
             //Repositorio
             var repositorio = new Ejemplo.BL.Repositorios.ProductRepository();
             //Invocar al metodo correspondiente
-            var resultado = repositorio
+            var resultado = repositorio;
         }
     }
 }
