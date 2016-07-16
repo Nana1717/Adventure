@@ -1,1 +1,17 @@
 F:\2 cuatri 2016\Tópicos Selectos de Comput. (Electiva)\Github\2016-2-Groupware-master\AdventureWorks.Demo\Ejemplo.BL\obj\Debug\Ejemplo.BL.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\Ejemplo.BL.dll.config
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\Ejemplo.BL.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\Ejemplo.BL.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\Ejemplo.Model.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\EntityFramework.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\GenericRepository.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\GenericRepository.EntityFramework.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\Ejemplo.Model.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\EntityFramework.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\GenericRepository.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\bin\GenericRepository.EntityFramework.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\obj\Debug\Ejemplo.BL.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\obj\Debug\Ejemplo.BL.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\Ejemplo.BL\obj\Debug\Ejemplo.BL.pdb
