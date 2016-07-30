@@ -83,8 +83,12 @@ C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.D
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\AdventureWorks.Demo.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\AdventureWorks.Demo.pdb
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Antlr3.Runtime.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\EntityFramework.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -109,6 +113,10 @@ C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.D
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\System.Web.WebPages.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\System.Web.WebPages.Razor.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\WebGrease.dll
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.pdb
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.xml
+C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.xml
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\System.Web.Helpers.xml
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\System.Web.Mvc.xml
@@ -136,11 +144,3 @@ C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.D
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.csprojResolveAssemblyReference.cache
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.dll
 C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\obj\Debug\AdventureWorks.Demo.pdb
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.dll
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.dll
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.dll
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.dll
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.BL.pdb
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\Ejemplo.Model.pdb
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.xml
-C:\Users\laboratorio\Source\Repos\Adventure\AdventureWorks.Demo\AdventureWorks.Demo\bin\GenericRepository.EntityFramework.xml

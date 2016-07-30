@@ -18,7 +18,9 @@ namespace AdventureWorks.Demo.Controllers
         // GET: Products
         public ActionResult Index()
         {
-            var products = db.Products.Include(p => p.ProductModel).Include(p => p.ProductSubcategory);
+            var repositorio = new Ejemplo.BL.Repositorios.ProductRepository();
+            var products = repositorio.GetAllProducts();
+            //var products = db.Products.Include(p => p.ProductModel).Include(p => p.ProductSubcategory);
             return View(products.ToList());
         }
 
